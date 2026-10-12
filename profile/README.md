@@ -30,7 +30,8 @@
 
 ## 📮 联系我们
 
-- 📧 **邮箱：[zuozewei@hotmail.com](mailto:zuozewei@hotmail.com)**
+- 📱 **微信 / 电话：18611869407**
+- 📧 **邮箱：[32913946@qq.com](mailto:32913946@qq.com)**
 - 🏢 **主组织：[github.com/7dgroup-ai](https://github.com/7dgroup-ai)**
 - 📣 **微信公众号：7DGroup**（电商项目全套学习教程连载中，第一时间获取更新）
 
