@@ -12,9 +12,9 @@
 
 | 专栏 | 内容方向 | 地址 |
 | --- | --- | --- |
+| 📈 **性能测试实战 30 讲** | 性能测试方法论 · 场景设计 · 结果分析 | [专栏地址](https://time.geekbang.org/column/article/187963) |
 | 🏢 **高楼的性能工程实战课** | 性能需求分析 · 测试执行 · 监控分析 · 容量规划 · 生产调优 | [专栏地址](https://time.geekbang.org/column/intro/100074001) |
 | 🔗 **全链路压测实战 30 讲** | 全链路压测体系 · 平台建设 · 落地实践 | [专栏地址](https://time.geekbang.org/column/intro/100093001) |
-| 📈 **性能测试实战 30 讲** | 性能测试方法论 · 场景设计 · 结果分析 | [专栏地址](https://time.geekbang.org/column/article/187963) |
 | 🤖 **Agent 性能测试实战 30 讲** | Agent 性能测试 · TTFT / TPOT / Goodput · RESAR 七步法 · Multi-Agent 架构迁移 | [专栏地址](https://time.geekbang.org/column/intro/101193401) |
 
 ## 📦 组织项目
