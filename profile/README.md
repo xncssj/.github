@@ -15,12 +15,15 @@
 | 🏢 **高楼的性能工程实战课** | 性能需求分析 · 测试执行 · 监控分析 · 容量规划 · 生产调优 | [专栏地址](https://time.geekbang.org/column/intro/100074001) |
 | 🔗 **全链路压测实战 30 讲** | 全链路压测体系 · 平台建设 · 落地实践 | [专栏地址](https://time.geekbang.org/column/intro/100093001) |
 | 📈 **性能测试实战 30 讲** | 性能测试方法论 · 场景设计 · 结果分析 | [专栏地址](https://time.geekbang.org/column/article/187963) |
+| 🤖 **Agent 性能测试实战 30 讲** | Agent 性能测试 · TTFT / TPOT / Goodput · RESAR 七步法 · Multi-Agent 架构迁移 | [专栏地址](https://time.geekbang.org/column/intro/101193401) |
 
 ## 📦 组织项目
 
 | 项目 | 说明 | 技术栈 |
 | --- | --- | --- |
 | 🛒 [**7d-mall-microservice**](https://github.com/xncssj/7d-mall-microservice) | 「高楼的性能工程实战课」专栏配套项目：在开源电商 [mall-swarm](https://github.com/macrozheng/mall-swarm) 基础上改造的微服务电商，集成注册中心、配置中心、监控中心、网关等系统功能，可用于全链路压测与性能分析实战演练 | Java · Spring Cloud · OAuth2 · Elasticsearch · RabbitMQ · Redis · MongoDB · Docker · K8s · SkyWalking |
+| ⚡ [**k6-mastery**](https://github.com/xncssj/k6-mastery) | 《k6 性能测试从入门到精通》专栏配套示例仓库：面向本机短时低压力跟练的最小可运行资产，含 k6 示例脚本、本地被测服务、测试案例与实跑证据 | k6 · JavaScript · Python |
+| 🤖 [**agent-perf-testing-30-lectures**](https://github.com/xncssj/agent-perf-testing-30-lectures) | 「Agent 性能测试实战 30 讲」专栏配套仓库：以客服工单 Agent 为贯穿案例（Single Agent → Multi-Agent → Workflow/Flow + RAG），提供 k6 压测套件、测试数据集、脚本与可复用模板，配套资产按讲次逐步开放 | k6 · Python · Docker |
 
 ## 🧭 我们是谁
 
